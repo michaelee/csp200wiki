@@ -6,3 +6,4 @@ Contributors to this wiki:
 - John Doe <jdoe@iit.edu>
 - Mary Jane <mjane@iit.edu>
 - Jack <jack@iit.edu>
+- Edward <edward@iit.edu>
